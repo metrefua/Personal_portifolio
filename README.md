@@ -14,16 +14,16 @@ The project demonstrates the use of basic HTML elements such as headings, paragr
 - **HTML5** only (no CSS or JavaScript in this version).
 - Semantic HTML elements for structure and readability.
 
-## 🚀 How to Run
+## How to Run
 1. Clone or download this repository.
 2. Open the `index.html` file in any modern web browser.
 3. Explore the sections and try out the contact form.
 
-## 📌 Future Improvements
+## Future Improvements
 - Add **CSS styling** for a modern, responsive design.
 - Use **JavaScript** to handle form submissions and display confirmation messages.
 - Expand the **Projects Section** with real-world examples and links.
 - Integrate with a backend or service to make the contact form functional.
 
-## 👩‍💻 Author
+## Author
 Created by **Meti** — Software Engineering student, aspiring full-stack web developer, with interests in **cybersecurity** and **data structures & algorithms (DSA)**.
